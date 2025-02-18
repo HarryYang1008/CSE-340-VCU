@@ -1,0 +1,13 @@
+total 44
+-rw-r-----. 1 yangw9 yangw9 1133 Sep  1 19:59 example-array-function2.c
+-rw-r-----. 1 yangw9 yangw9  930 Sep  1 19:59 example-array-function.c
+-rw-r-----. 1 yangw9 yangw9 1597 Sep  1 19:59 example-array-initialize.c
+-rw-r-----. 1 yangw9 yangw9 2062 Sep  1 19:59 example-array_vs_var.c
+-rw-r-----. 1 yangw9 yangw9 1121 Sep  1 19:59 example-cast.c
+-rw-r-----. 1 yangw9 yangw9 3122 Sep  1 19:59 example-cost-analysis2.c
+-rw-r-----. 1 yangw9 yangw9 2375 Sep  1 19:59 example-cost-analysis.c
+-rw-r-----. 1 yangw9 yangw9 2649 Sep  1 19:59 example-inttoobig.c
+-rw-r-----. 1 yangw9 yangw9 1575 Sep  1 19:59 example-percent-diff.c
+-rw-r-----. 1 yangw9 yangw9 1370 Sep  1 19:59 example-sizeof.c
+-rw-rw----. 1 yangw9 yangw9    0 Sep  1 20:08 outfile2
+-rw-rw----. 1 yangw9 yangw9  234 Sep  1 20:07 outfilel
